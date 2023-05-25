@@ -1,0 +1,29 @@
+.addPost {
+  display: block;
+  width: 100px;
+  margin: 10px auto;
+  padding: 10px;
+  text-align: center;
+  background-color: #5492f6;
+  color: #080808;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.addPost:hover {
+  background-color: #1e64d8;
+}
+.sideBar {
+  position: fixed;
+  top: 87px;
+  left: 0;
+  bottom: 0;
+  width: 100px;
+  background-color: #f3f3f3;
+  border-right: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+}

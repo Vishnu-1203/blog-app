@@ -1,0 +1,10 @@
+.blogArea {
+  position: fixed;
+  top: 90px; /* Height of the topBar */
+  left: 125px; /* Width of the sideBar */
+  right: 0;
+  bottom: 0;
+  background-color: #f9f9f9;
+  border: 1px solid #aaa;
+  overflow-y: scroll; /* Add scroll functionality if needed */
+}
