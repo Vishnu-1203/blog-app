@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import TopBar from "./components/topbar";
+import TopBar from "./components/topBarItems/topbar";
 import SideBar from "./components/sideBarItems/sidebar";
 import BlogArea from "./components/blogItems/blogArea";
 

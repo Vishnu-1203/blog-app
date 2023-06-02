@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles.css";
+import "./topStyles.css";
 const TopBar: React.FC = () => {
   return <div className="topBar">Metaphy</div>;
 };
